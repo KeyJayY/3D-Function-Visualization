@@ -16,3 +16,6 @@ This is a C++ application for visualizing 3D function plots using Shepard's meth
 1. Launch the application.
 2. Select one of the four predefined functions to visualize.
 3. Use the sliders to change the viewing angle and rotate the visualization interactively.
+
+## Instalation
+file .exe works correctly on Windows.
